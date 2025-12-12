@@ -84,3 +84,4 @@ C:\xampp\htdocs\testing1_alpro\back_end\obj\Debug\net9.0\staticwebassets\msbuild
 C:\xampp\htdocs\testing1_alpro\back_end\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.back_end.props
 C:\xampp\htdocs\testing1_alpro\back_end\obj\Debug\net9.0\staticwebassets.pack.json
 C:\xampp\htdocs\testing1_alpro\back_end\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\xampp\htdocs\testing1_alpro\back_end\obj\Debug\net9.0\back_end.sourcelink.json
